@@ -1,5 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gititx247" alt="gititx247"> </p>
 
+<h1><Hello World, welcome!></h1>
 
 - 👋 Hi, I’m Aditya 
 - 👀 I’m interested in Web-development, OpenSource Contributions, DSA and Chess!
@@ -9,8 +10,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Actually there are none that I can think of for now!
 - 👩‍💻 I code in: JavaScript, C++ and Python
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 <h3>Things I am learning</h3>
 <p>
@@ -24,7 +23,7 @@
 
 </p>
 
-
+<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
 
 ![gitit24x7's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitit24x7&show_icons=true&theme=radical)
 
