@@ -2,7 +2,7 @@
 
 <h1>Hello World, welcome!</h1>
 
-- 👋 Hi, I’m Aditya  
+- <h3>👋 Hi, I’m Aditya  </h3>
 <p> <img src="https://img.shields.io/badge/Programming_Level-Beginner-yellow"> 
  <img src="https://img.shields.io/badge/Loves_to_code_in-C++-blue">
  <img src="https://img.shields.io/badge/Working_at_a-Fintech_crypto_company-red">         
