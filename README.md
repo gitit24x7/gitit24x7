@@ -1,23 +1,41 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gititx247" alt="gititx247"> </p>
+<div align="center">
 
-<h1>Hello World, welcome!</h1>
+  ![GitHub Profile Banner](https://img.shields.io/badge/%F0%9F%8C%9F%20ADITYA%20OJHA%20%F0%9F%8C%9F-Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Fintech%20Professional-1a1b27?style=for-the-badge&labelColor=1a1b27&color=6e57e0)
 
-- <h3>👋 Hi, I’m Aditya  </h3>
-<p> <img src="https://img.shields.io/badge/Programming_Level-Beginner-yellow"> 
- <img src="https://img.shields.io/badge/Loves_to_code_in-C++-blue">
- <img src="https://img.shields.io/badge/Working_at_a-Fintech_crypto_company-red">         
- <img src="https://img.shields.io/badge/Learning-MERN_Stack-green"> </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=gitit24x7&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/gitit24x7?style=flat-square&color=brightgreen">
+    <img src="https://img.shields.io/badge/Programming_Level-Beginner-yellow?style=flat-square">
+  </p>
 
-- 👀 I’m interested in Web-development, OpenSource Contributions, DSA and Chess!
-- 🌱 I’m currently learning MERN stack
-- 💞️ I’m looking to collaborate on DSA problems, competitive coding, OpenSource projects and Webdev. 
-- 📫 How to reach me : email: thisisadityaojha@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Actually there are none that I can think of for now!
-- 👩‍💻 I code in: JavaScript, C++ and Python
+  # Hello World, welcome! 👋
 
-<h3>Things I am learning</h3>
-<p>
+  ## About Me
+  
+  <p>
+    <img src="https://img.shields.io/badge/Loves_to_code_in-C++-blue?style=for-the-badge&logo=cplusplus">
+    <img src="https://img.shields.io/badge/Working_at_a-Fintech_crypto_company-red?style=for-the-badge&logo=bitcoin">
+    <img src="https://img.shields.io/badge/Learning-MERN_Stack-green?style=for-the-badge&logo=mongodb">
+  </p>
+
+  <table>
+    <tr>
+      <td>
+        - 👀 I'm interested in Web-development, OpenSource Contributions, DSA and Chess!<br>
+        - 🌱 I'm currently learning MERN stack<br>
+        - 💞️ I'm looking to collaborate on DSA problems, competitive coding, OpenSource projects and Webdev.<br>
+        - 📫 How to reach me: <a href="mailto:thisisadityaojha@gmail.com">thisisadityaojha@gmail.com</a><br>
+        - 😄 Pronouns: He/Him<br>
+        - ⚡ Fun fact: Actually there are none that I can think of for now!<br>
+        - 👩‍💻 I code in: JavaScript, C++ and Python
+      </td>
+    </tr>
+  </table>
+
+  ## 💻 Technologies & Tools
+  
+  ### Things I am learning
+  <p>
     <img alt="ReactJS" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"/>
@@ -25,24 +43,57 @@
     <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white"/>
-</p>
+  </p>
 
-<h3>Coding Handles</h3>
+  ## 🏆 Coding Profiles
+  <p>
+    <a href="https://leetcode.com/Buggy247/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
+    </a>
+    <a href="https://www.codechef.com/users/buggy247">
+      <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" alt="CodeChef" />
+    </a>
+    <a href="https://codeforces.com/profile/chandragupta">
+      <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" alt="Codeforces" />
+    </a>
+    <a href="https://www.hackerrank.com/profile/adityojha786">
+      <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank" />
+    </a>
+  </p>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Buggy247/)
+  ## 📊 GitHub Statistics
 
-[![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/buggy247) 
+  <img src="https://github-readme-stats.vercel.app/api?username=gitit24x7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitit24x7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=gitit24x7&theme=nord&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/chandragupta)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gitit24x7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
 
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/adityojha786)
+  ## 📬 Connect With Me
+  
+  <p>
+    <a href="mailto:thisisadityaojha@gmail.com">
+      <img src="https://img.shields.io/badge/Email-thisisadityaojha@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/gitit24x7">
+      <img src="https://img.shields.io/badge/GitHub-gitit24x7-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
 
+  <p>
+    <img src="https://img.shields.io/github/last-commit/gitit24x7/gitit24x7?label=Profile%20Updated&style=flat-square&color=blue" />
+  </p>
 
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
+  ---
+  
+  ⭐️ From [gitit24x7](https://github.com/gitit24x7)
 
-![gitit24x7's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitit24x7&show_icons=true&theme=radical)
+</div>
 
 <!---
 gitit24x7/gitit24x7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
