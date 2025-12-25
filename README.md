@@ -16,7 +16,8 @@
   <p>
     <img src="https://img.shields.io/badge/Loves_to_code_in-C++-blue?style=for-the-badge&logo=cplusplus">
     <img src="https://img.shields.io/badge/Working_at_a-Fintech_crypto_company-red?style=for-the-badge&logo=bitcoin">
-    <img src="https://img.shields.io/badge/Learning-MERN_Stack-green?style=for-the-badge&logo=mongodb">
+    <img src="https://img.shields.io/badge/Learning-Machine%20Learning-blue?style=for-the-badge&logo=python">
+
   </p>
 
   <table>
