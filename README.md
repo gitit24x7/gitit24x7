@@ -24,11 +24,11 @@
     <tr>
       <td>
         - 👀 I'm interested in Web-development, OpenSource Contributions, DSA and Chess!<br>
-        - 🌱 I'm currently learning MERN stack<br>
-        - 💞️ I'm looking to collaborate on DSA problems, competitive coding, OpenSource projects and Webdev.<br>
+        - 🌱 I'm currently learning AI/ML<br>
+        - 💞️ I'm looking to collaborate on UI/UX, OpenSource projects and Webdev.<br> 
         - 📫 How to reach me: <a href="mailto:thisisadityaojha@gmail.com">thisisadityaojha@gmail.com</a><br>
         - 😄 Pronouns: He/Him<br>
-        - ⚡ Fun fact: Actually there are none that I can think of for now!<br>
+        - ⚡ Fun fact: I like being a Generalist!<br>
         - 👩‍💻 I code in: JavaScript, C++ and Python
       </td>
     </tr>
