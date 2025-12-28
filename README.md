@@ -6,7 +6,7 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=gitit24x7&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/gitit24x7?style=flat-square&color=brightgreen">
-    <img src="https://img.shields.io/badge/Programming_Level-Beginner-yellow?style=flat-square">
+    <img src="https://img.shields.io/badge/Programming_Level-Intermediate-yellow?style=flat-square">
   </p>
 
   # Hello World, welcome! 👋
