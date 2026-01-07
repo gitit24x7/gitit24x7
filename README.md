@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Cool Header with Background Image -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e57e0&height=200&section=header&text=Aditya%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20DSA%20Enthusiast%20|%20Fintech%20Professional&descAlignY=58&descAlign=50" width="100%" alt="Header Image"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6e57e0&height=200&section=header&text=Aditya%20Ojha&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Crypto%20Enthusiast%20|%20Fintech%20Professional&descAlignY=58&descAlign=50" width="100%" alt="Header Image"/>
 
   <p>
     <img src="https://komarev.com/ghpvc/?username=gitit24x7&color=blueviolet&style=flat-square&label=Profile+Views" alt="profile views" />
