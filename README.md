@@ -104,6 +104,15 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6e57e0&height=100&section=footer" width="100%" alt="Footer Image"/>
 
   ---
+
+
+  ## 📊 GitHub Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gitit24x7/gitit24x7/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gitit24x7/gitit24x7/output/github-contribution-grid-snake.svg">
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/gitit24x7/gitit24x7/output/github-contribution-grid-snake.svg">
+</picture>
   
   ⭐️ From [gitit24x7](https://github.com/gitit24x7)
 
