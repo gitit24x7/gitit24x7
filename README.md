@@ -21,7 +21,10 @@
   </p>
 
   ## Projects
-  <>Testing</p>
+  ### 
+  <p><a href="https://www.adityaojha.dev">My Portfolio</a>: This is just my Portfolio with a blog</p>
+  <p><a href="https://reactmastery.xyz">ReactMastery</a>: Learn react in an unconventional way, to build muscle memory fast</p>
+  <p><a href="https://psachno.vercel.app">Psachno OSS</a>: Find Open source beginner friendly issues with your categories.</p>
 
   <table>
     <tr>
