@@ -26,7 +26,7 @@
   <p><a href="https://reactmastery.xyz">ReactMastery</a>: Learn react in an unconventional way, to build muscle memory fast</p>
   <p><a href="https://psachno.vercel.app">Psachno OSS</a>: Find Open source beginner friendly issues with your categories.</p>
   <p><a href="https://sprintmagic.vercel.app">SprintMagic</a>: JIRA is bloated, Sprintmagic is just an .MD file which you can paste and auto track with a git sync, fully in your browser, no signups needed, totally free</p>
-    <p><a href="https://sdsim.vercel.app">System-Desgin-Simulator</a>: Lear System Design, practice with guides, and chaos test them too! All for free</p>
+    <p><a href="https://sdsim.vercel.app">System-Desgin-Simulator</a>: Learn System Design, practice with guides, and chaos test them too! All for free</p>
 
 
   <table>
